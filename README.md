@@ -1,0 +1,2 @@
+# Recommender-Systems-Using-ML-DL-And-Market-Basket-Analysis-Using-Apriori
+This repository consists of collaborative filtering Recommender systems like Similarity Recommenders, KNN Recommenders, using Apple's Turicreate, A matrix Factorization system from scratch and a Deep Learning Recommender System which learns using embeddings. Besides this Market Basket Analysis using Apriori Algorithm has also been done.
