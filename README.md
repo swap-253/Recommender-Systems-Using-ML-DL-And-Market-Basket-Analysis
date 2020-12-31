@@ -22,5 +22,5 @@ The dataset is a movies ratings dataset from movielens and five colaborative fil
 5)A Deep Learning Recommender** which learns embeddings of users and movies and utilises KNN to predict the movie on the basis of user embeddings
 <br>
 <br>
-To look at movies which are frequently highly rated by an user is an example of **Market Basket Analysis**. It has been implemented using **Apriori Algorithm** in this repository.
+To look at movies which are frequently highly rated by users is an example of **Market Basket Analysis**. It has been implemented using **Apriori Algorithm** in this repository.
 
