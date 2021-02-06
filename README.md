@@ -2,8 +2,8 @@
 This repository consists of collaborative filtering Recommender systems like Similarity Recommenders, KNN Recommenders, using Apple's Turicreate, A matrix Factorization system from scratch and a Deep Learning Recommender System which learns using embeddings. Besides this Market Basket Analysis using Apriori Algorithm has also been done.
 ## References
 1) **Krish Naik Tutorial For KNN**:-(https://github.com/krishnaik06/Recommendation_complete_tutorial/tree/master/KNN%20Movie%20Recommendation) 
-2) Matrix Factorization Recommender System inspired from Netflix Prize:- (https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf)
-3) Analytics Vidhya Tutorial:-(https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/)
+2) **Matrix Factorization Recommender System inspired from Netflix Prize**:- (https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf)
+3) **Analytics Vidhya Tutorial For Recommendation Engine**:-(https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/)
 ### About Dataset 
 The dataset is a movies ratings dataset from movielens and five colaborative filtering recommenders have been implemented taking care of time of ratings and its affect on the ratings of the movie i.e-temporal information. Three subdivisions of movie lens dataset have been taken.
 <br>
@@ -15,6 +15,7 @@ The dataset is a movies ratings dataset from movielens and five colaborative fil
 <br>
 <br>
 <br>
+### Recommenders Used
 **1)Similarity Recommender
 <br>
 2)KNN Recommender
