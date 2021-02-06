@@ -4,8 +4,6 @@ This repository consists of collaborative filtering Recommender systems like Sim
 1) **Krish Naik Tutorial For KNN**:-(https://github.com/krishnaik06/Recommendation_complete_tutorial/tree/master/KNN%20Movie%20Recommendation) 
 2) **Matrix Factorization Recommender System inspired from Netflix Prize**:- (https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf)
 3) **Analytics Vidhya Tutorial**:-(https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/)
-<br>
-<br>
 The dataset is a movies ratings dataset from movielens and five colaborative filtering recommenders have been implemented taking care of time of ratings and its affect on the ratings of the movie i.e-temporal information. Three subdivisions of movie lens dataset have been taken.
 <br>
 <br>
