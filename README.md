@@ -40,6 +40,18 @@ So deployment of Deep Learning Embedding Model has been done using **Fast APIs, 
 ### After Entering userid
 ![pyweb2](https://user-images.githubusercontent.com/75975560/117648603-0b7a7c80-b1ac-11eb-8dd4-e6ff61203507.png)
 
+## Using FastAPI
+### The First Screen
+![fast1](https://user-images.githubusercontent.com/75975560/117650215-133b2080-b1ae-11eb-9cf3-9cdf525501f8.png)
+### Before Executing Get Name
+![fast2](https://user-images.githubusercontent.com/75975560/117650219-1504e400-b1ae-11eb-953a-4e303c4f0905.png)
+### After Executing Get Name
+![fast3](https://user-images.githubusercontent.com/75975560/117650241-19310180-b1ae-11eb-988d-5a2b2c9163d9.png)
+### Before Executing Predict
+![fast4](https://user-images.githubusercontent.com/75975560/117650260-1d5d1f00-b1ae-11eb-977e-33516dfeca16.png)
+### After Executing Predict
+![fast5](https://user-images.githubusercontent.com/75975560/117650285-28b04a80-b1ae-11eb-93e7-1e2ff4228327.png)
+
 To look at movies which are frequently highly rated by users is an example of **Market Basket Analysis**. It has been implemented using **Apriori Algorithm** in this repository.
 
 
