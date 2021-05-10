@@ -26,6 +26,20 @@ The dataset is a movies ratings dataset from movielens and five colaborative fil
 <br>
 5)A Deep Learning Recommender** which learns embeddings of users and movies and utilises KNN to predict the movie on the basis of user embeddings
 <br>
+So deployment of Deep Learning Embedding Model has been done using **Fast APIs, PyWebIO and StreamLit platforms** where an user id has to be entered and his preferences are displayed as predicted by the model.
 <br>
+## Using StreamLit
+### Before Entering userid
+![strem1](https://user-images.githubusercontent.com/75975560/117648421-cf471c00-b1ab-11eb-85a5-b11dc7298fad.png)
+### After Entering userid
+![strem2](https://user-images.githubusercontent.com/75975560/117648485-e423af80-b1ab-11eb-8a16-380c6452f875.png)
+
+## Using PyWebIO
+### Before Entering userid
+![pyweb1](https://user-images.githubusercontent.com/75975560/117648582-04536e80-b1ac-11eb-84bf-6fa545e4f145.png)
+### After Entering userid
+![pyweb2](https://user-images.githubusercontent.com/75975560/117648603-0b7a7c80-b1ac-11eb-8dd4-e6ff61203507.png)
+
 To look at movies which are frequently highly rated by users is an example of **Market Basket Analysis**. It has been implemented using **Apriori Algorithm** in this repository.
+
 
