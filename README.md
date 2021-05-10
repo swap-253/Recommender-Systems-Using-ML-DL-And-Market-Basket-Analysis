@@ -1,5 +1,5 @@
 # Recommender-Systems-Using-ML-DL-And-Market-Basket-Analysis-Using-Apriori
-This repository consists of collaborative filtering Recommender systems like Similarity Recommenders, KNN Recommenders, using Apple's Turicreate, A matrix Factorization system from scratch and a Deep Learning Recommender System which learns using embeddings. Besides this Market Basket Analysis using Apriori Algorithm has also been done.
+This repository consists of collaborative filtering Recommender systems like Similarity Recommenders, KNN Recommenders, using Apple's Turicreate, A matrix Factorization system from scratch and a Deep Learning Recommender System which learns using embeddings. Besides this Market Basket Analysis using Apriori Algorithm has also been done. Deployment of Embedding Based Recommender Systems have also been done on local host using Streamlit, Fast API and PyWebIO.
 ## References
 1) **Krish Naik Tutorial For KNN**:-(https://github.com/krishnaik06/Recommendation_complete_tutorial/tree/master/KNN%20Movie%20Recommendation) 
 2) **Matrix Factorization Recommender System inspired from Netflix Prize**:- (https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf)
