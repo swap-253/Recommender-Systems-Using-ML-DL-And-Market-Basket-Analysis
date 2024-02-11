@@ -20,14 +20,21 @@ The dataset is a movies ratings dataset from movielens and five colaborative fil
 <br>
 2)KNN Recommender
 <br>
-3)Apple's Turicreate Recommender**(highly specialised and accurate)
+3)Plot based Content Recommender
 <br>
-**4)A matrix factorization method which has been implemented using Stochastic Gradient Descent, Adam's Optimisation and RMS Prop separately.
+4)cast_genre_director based Content Recommender
 <br>
-5)A Deep Learning Recommender** which learns embeddings of users and movies and utilises KNN to predict the movie on the basis of user embeddings
+5)Apple's Turicreate Recommender**(highly specialised and accurate)
+<br>
+**6)A matrix factorization method which has been implemented using Stochastic Gradient Descent, Adam's Optimisation and RMS Prop separately.
+<br>
+7)A Deep Learning Recommender** which learns embeddings of users and movies and utilises KNN to predict the movie on the basis of user embeddings
 <br>
 So deployment of Deep Learning Embedding Model has been done using **Fast APIs, PyWebIO and StreamLit platforms** where an user id has to be entered and his preferences are displayed as predicted by the model.
 <br>
+
+
+
 ## Using StreamLit
 ### Before Entering userid
 ![strem1](https://user-images.githubusercontent.com/75975560/117648421-cf471c00-b1ab-11eb-85a5-b11dc7298fad.png)
